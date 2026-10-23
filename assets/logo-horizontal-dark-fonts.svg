@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 485 120" width="485" height="120"><defs><style>@import url("https://fonts.googleapis.com/css2?family=Geist:wght@400..700&amp;family=JetBrains+Mono:wght@400..700&amp;display=swap");</style></defs><rect width="100%" height="100%" fill="#07090F"/><rect width="100" height="100" rx="24" fill="#07090F"/>
+<path d="M50 20 A30 30 0 0 1 80 50" fill="none" stroke="#C6FF3D" stroke-width="7" stroke-linecap="round" opacity=".45"/>
+<path d="M50 80 A30 30 0 0 1 20 50" fill="none" stroke="#C6FF3D" stroke-width="7" stroke-linecap="round" opacity=".45"/>
+<rect x="38" y="38" width="24" height="24" rx="5" fill="#C6FF3D"/>
+<rect x="68" y="66" width="5" height="16" rx="1.5" fill="#C6FF3D"/><text x="132" y="80" font-family="Geist" font-weight="650" font-size="86" letter-spacing="-2.5" fill="#F6F7F2">impacto</text><text x="136" y="112" font-family="JetBrains Mono" font-size="15" fill="#A1A7B5">// marketing · produto · ia</text></svg>
